@@ -3,6 +3,29 @@
 #include <time.h>
 int num,points=0;
 
+int line();
+int choice(char* choice1,char* choice2);
+int game_close();
+int game_loop();
+int intro();
+int scene1();
+int scene11();
+int scene111();
+int scene1111();
+int scene11111();
+int scene111111();
+int scene111112();
+int scene11112();
+int scene111121();
+int scene1111211();
+int scene1111212();
+int scene111122();
+int scene1112();
+int scene112();
+int scene12();
+int scene122();
+int scene_end();
+
 int line(){
     printf("__________________________________________________\n");
 }
