@@ -1,6 +1,6 @@
-# Computer-Man: Into The Computer-Verse
+# 🖥️ Computer-Man: Into The Computer-Verse
 
-Welcome to "Computer-Man: Into The Computer-Verse", a text-based adventure game written in C.
+### 👋 Welcome to "Computer-Man: Into The Computer-Verse", a text-based adventure game written in C.
 
 ## Description
 
