@@ -33,4 +33,4 @@ This game was created by [Juice Boy](https://github.com/123JUICE-BOY321).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+🛡️ [**GNU General Public License v3.0 (GPLv3)**](LICENSE)
